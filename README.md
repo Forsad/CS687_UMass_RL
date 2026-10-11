@@ -8,3 +8,5 @@ Code for the CS687 (Reinforcment Learning) for Fall 2020. It includes implementa
 4. Sarsa(lambda variant)
 5. Q-Learning(lambda variant)
 6. REINFORCE
+
+All of the implementations received 100/100 in every assignment
